@@ -1,7 +1,7 @@
 """
 Module of handy functions.
 """
-
+#I'm making a change for Git
 # do imports first, available to all functions in the module
 import os, sys, shutil
 
